@@ -1,15 +1,11 @@
 "use client";
 import Image from "next/image";
 
-
 const Banner = () => {
   return (
-
 <div className="relative h-128 rounded-lg overflow-hidden shadow-lg mb-8 max-w-7xl mx-auto w-full bg-black p-8 flex flex-col justify-center">
-
-  { }
-
-    <Image
+{ }
+<Image
       src="/images/banner.jpg"
         alt="Banner"
         layout="fill"
