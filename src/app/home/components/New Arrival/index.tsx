@@ -43,7 +43,7 @@ export default function NewArrival() {
               priority
             />
             <div className="relative z-10 p-6 text-white bg-gradient-to-t from-black/80 via-black/60 to-transparent w-full">
-              <h3 className="text-lg font-bold mb-2">Women&apos;s Collections</h3>
+              <h3 className="text-lg font-bold mb-2">Women's Collections</h3>
               <p className="text-xs mb-3">
                 Featured women collections that give you another vibe.
               </p>
